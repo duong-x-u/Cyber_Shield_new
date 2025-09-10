@@ -60,7 +60,8 @@ Cyber Shield là một ứng dụng bảo mật di động hoạt động nền,
 - **Tên:** Phạm Thái Dương (Dương Nker)
 - **Trường:** THPT Nguyễn Khuyến
 - **Lớp:** 10A6
-- **Giáo viên hỗ trợ:** Cô Lưu Vinh
+- **Giáo viên hướng dẫn:** Cô Lưu Vinh
 
 ## Lưu ý thêm
 1. Ứng dụng có thể gặp một số vấn đề về quyền "Truy cập thông báo" do các giới hạn bảo mật từ hệ điều hành Android trên một số dòng máy.
+

@@ -65,3 +65,10 @@ Cyber Shield là một ứng dụng bảo mật di động hoạt động nền,
 ## Lưu ý thêm
 1. Ứng dụng có thể gặp một số vấn đề về quyền "Truy cập thông báo" do các giới hạn bảo mật từ hệ điều hành Android trên một số dòng máy.
 
+
+## Các liên kết bổ sung
+1. Mã nguồn gốc: [GitHub](github.com/duong-x-u/Cyber_Shield_new)
+2. Phiên bản thử nghiệm của ứng dụng: [Phiên bản thử nghiệm - Lưu trữ trên Drive](https://drive.google.com/drive/u/0/folders/1T2hFph7rQzfD7gPp8fizqn3EXYQ43P-v)
+3. Kết quả test từ nhà phát triển: [Kết quả test - Lưu trữ trên Drive](https://drive.google.com/drive/u/0/folders/1t1V5oJ1yNhZKzyO9Mj-sSy9vpErAztSL)
+4. Kho dữ liệu của AI: [Anna AI Data Base - Use Google Sheets](https://docs.google.com/spreadsheets/d/1vK2DoSOi81ZA4NevtlucwaLKO_N4pyI8hbN-oTpDGWU/edit?usp=drive_link)
+5. Các mẫu tin nhán lừa đảo phổ biến: [Mẫu tin nhắn](https://docs.google.com/document/d/1dBzBrJkQ2XQ9q4XT6uwLhqrnc75gvAilFmUZCQS9IBM/edit?usp=drive_link

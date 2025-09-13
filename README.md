@@ -57,7 +57,7 @@ Cyber Shield là một ứng dụng bảo mật di động hoạt động nền,
 > **Lưu ý:** Tên các mục trong Cài đặt có thể thay đổi tùy theo phiên bản Android và nhà sản xuất điện thoại.
 
 ## Tác giả
-- **Tên:** Phạm Thái Dương (Dương Nker)
+- **Tên:** Phạm Thái Dương (Dương PT NKer)
 - **Trường:** THPT Nguyễn Khuyến
 - **Lớp:** 10A6
 - **Giáo viên hướng dẫn:** Cô Lưu Vinh
@@ -72,4 +72,5 @@ Cyber Shield là một ứng dụng bảo mật di động hoạt động nền,
 3. Kết quả test từ nhà phát triển: [Kết quả test - Lưu trữ trên Drive](https://drive.google.com/drive/u/0/folders/1t1V5oJ1yNhZKzyO9Mj-sSy9vpErAztSL)
 4. Kho dữ liệu của AI: [Anna AI Data Base - Use Google Sheets](https://docs.google.com/spreadsheets/d/1vK2DoSOi81ZA4NevtlucwaLKO_N4pyI8hbN-oTpDGWU/edit?usp=drive_link)
 5. Các mẫu tin nhán lừa đảo phổ biến: [Mẫu tin nhắn](https://docs.google.com/document/d/1dBzBrJkQ2XQ9q4XT6uwLhqrnc75gvAilFmUZCQS9IBM/edit?usp=drive_link)
+
 
